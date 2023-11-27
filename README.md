@@ -1,2 +1,0 @@
-# HowManyDays
-Date Calculator
